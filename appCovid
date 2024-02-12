@@ -2,7 +2,7 @@ include <stdio.h>
 #include <stdlib.h>
 #include<locale.h>
 
-
+//appCovid
 
 char nome[50];
 char cpf[10];
